@@ -1,0 +1,37 @@
+ 
+ .im{
+
+        width:100px;
+        margin-top:0
+      }
+  .name{
+        font-weight:bold;
+        margin-top:5px;
+        margin-bottom: 5px;
+        margin-left:3px;
+      }
+      .notice{
+        margin-top:5px;
+        margin-bottom: 5px;
+        font-size: 10px;
+        margin-left:3px;
+      }
+      .option{
+        background-color: blue;
+        padding-bottom: 7px;
+        padding-top:7px;
+        padding-left:10px;
+        padding-right:10px;
+        color:white;
+        border:none;
+        border-radius:3px;
+        margin-left:3px;
+        margin-bottom: 7px;
+      }
+      .oliver{
+        border:solid;
+        margin-top:10px;
+        width:100px;
+      }
+      
+ 
